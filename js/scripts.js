@@ -23,13 +23,13 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Kamal',
-    'I design and code games',
+    'I\'m Britta Michel',
+    'Engg in making @ RIT',
     'see my resume <a href="">here</a>',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:urmailid">kamal@gmail.com</a>',
-    '<a target="_blank" href="www.instagram.com/kamaljohnson97/">instagram.com/kamaljohnson97/</a><br><a target="_blank" href="https://github.com/kamaljohnson">github.com/kamaljohnson</a>',
+    'You can contact me at <a href="mailto:urmailid">mail2britta@gmail.com</a>',
+    '<a target="_blank" href="instagram.com/britta_michel/">instagram.com/britta_michel</a><br><a target="_blank" href="github.com/britta-michel">github.com/britta</a>',
     getCurrentTime(),
-    '👀 J.'
+    '👀 '
   ]
 
   var getFontSize = function() {
